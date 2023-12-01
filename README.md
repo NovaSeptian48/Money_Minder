@@ -20,7 +20,7 @@ Kelebihan lainnya adalah kemudahan akses tanpa memerlukan koneksi data seluler a
 
 # Fitur Fitur Aplikasi
 
-1. Tampilan Login : Tampilan ini memungkinkan pengguna untuk membuat akun pribadi, seperti Nama Pengguna, Email atau No Hp, dan Password. Pada tampilan ini juga ada 2 opsi untuk membuat akun pribadi. Opsi Masuk untuk pengguna yang sudah punya akun di aplikasi. Untuk opsi Daftar digunakan untuk pengguna yang belum punya akun dan ingin mendaftar pada aplikasi Tabungan. (Tidak Tersedia)
+1. Tampilan Login : Tampilan ini memungkinkan pengguna untuk membuat akun pribadi, seperti Nama Pengguna, Email atau No Hp, Password, dan Fingerprint. Pada tampilan ini juga ada 2 opsi untuk membuat akun pribadi. Opsi Masuk untuk pengguna yang sudah punya akun di aplikasi. Untuk opsi Daftar digunakan untuk pengguna yang belum punya akun dan ingin mendaftar pada aplikasi Money Minder. **(Tidak Tersedia hanya bisa menggunakan Fingerprint saja)**
 2. Tampilan Home : Di bagian atas layar terdapat header yang mencakup tulisan nama aplikasi “Money Minder” dan ada navigasi Form Pengeluaran dan Form Pemasukan.
 3. Tampilan Menu Tambah Data: Ketika pengguna mengetuk tombol "+",  akan muncul menu Tambah Data yang memungkinkan pengguna  untuk mengisi detail catatan keuangan. Ini termasuk informasi seperti keterangan (misal uang tersebut bertujuan untuk apa), tanggal transaksi, serta jumlah uang yang digunakan.
 4. Setelah menu tambah data sudah terisi, riwayat tambah data akan muncul di tampilan Home. Serta total keuangan dari pengeluaran dan pemasukan akan muncul juga pada tampilan home bagian atas.
