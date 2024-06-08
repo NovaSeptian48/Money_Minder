@@ -4,14 +4,6 @@ Aplikasi Catatan Keuangan adalah solusi perangkat lunak yang diciptakan khusus u
 
 Kelebihan lainnya adalah kemudahan akses tanpa memerlukan koneksi data seluler atau kuota internet. Pengguna dapat mengakses aplikasi ini kapan saja dan di mana saja, tanpa khawatir tentang biaya data atau keterbatasan akses internet. Ini memberikan fleksibilitas yang tinggi bagi pengguna yang ingin memantau keuangan mereka saat bepergian atau dalam situasi di mana koneksi internet mungkin tidak stabil. Antarmuka yang ramah pengguna membuat pengguna dapat dengan mudah melakukan input data, termasuk transaksi pengeluaran serta pemasukan, total keuangan dari pengeluaran dan pemasukan, serta laporan visual yang dihasilkan oleh aplikasi membantu pengguna memahami secara menyeluruh bagaimana mereka mengelola keuangan mereka dari waktu ke waktu.
 
-# Nama Anggota Kelompok 7
-
-1. Meutya Hermanadia 			(22050974045)
-2. Hana Alyakinanti 				(22050974046)
-3. Nova Septian Alfado 			(22050974048)
-4. Riadyta Hangyalevi Puspaningrum 	(22050974071)
-5. Kinthana Diaz Primadhieta			(22050974072)
-
 # Link Web
 
 - https://pendidikan-ti.ft.unesa.ac.id
