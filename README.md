@@ -17,6 +17,4 @@ Kelebihan lainnya adalah kemudahan akses tanpa memerlukan koneksi data seluler a
 3. Tampilan Menu Tambah Data: Ketika pengguna mengetuk tombol "+",  akan muncul menu Tambah Data yang memungkinkan pengguna  untuk mengisi detail catatan keuangan. Ini termasuk informasi seperti keterangan (misal uang tersebut bertujuan untuk apa), tanggal transaksi, serta jumlah uang yang digunakan.
 4. Setelah menu tambah data sudah terisi, riwayat tambah data akan muncul di tampilan Home. Serta total keuangan dari pengeluaran dan pemasukan akan muncul juga pada tampilan home bagian atas.
 
-# Poster
 
-![Teks paragraf Anda](https://github.com/NovaSeptian48/MoneyMinder/assets/152488691/116f2bdf-6c47-45a5-87b9-045fdcf42d5f)
